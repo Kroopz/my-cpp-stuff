@@ -1,1 +1,2 @@
-# my-cpp-stuff
+# cpp-stuff
+Leadwerks snippets, etc.
